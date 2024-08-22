@@ -18,7 +18,7 @@ function LikePhotoApp() {
     }
   return (
     <div className='container text-center'>
-      <Title text={"Like PhotoApp"}/>
+      <Title text={"Like Photo App"}/>
       <Title classes={"subtitle"} text={`Likes-${count}`}/>
 
       <div className='card card-dark m-auto shadow-sm' style={{width:300,cursor:"pointer"}}
